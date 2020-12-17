@@ -1,0 +1,110 @@
+body{font-family: "Times New Roman", Times, serif;  background-color: #141414}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+width: 50%;}
+
+.center2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+
+.footer {
+ padding:0px;
+ text-align: center;
+ background-color: #A5A5A5;
+ font-size: 20px;
+ color: #141414;
+font-family: "Times New Roman", Times, serif; }
+
+
+h1{
+ padding:1px;
+ text-align: center;
+ background-color: #141414;
+ font-size: 60px;
+ color: #ADADAD;
+font-family: "Times New Roman", Times, serif;}
+
+h2{
+padding:5px;
+ text-align: center;
+ background-color: #A5A5A5;
+ font-size: 60px;
+ color: #141414 ;
+font-family: "Times New Roman", Times, serif;}
+
+h3{
+padding:10px;
+ text-align: center;
+ background-color: #A5A5A5;
+ font-size: 25px;
+ color: #141414 ;
+font-family: "Times New Roman", Times, serif;}
+
+.p1{
+padding:0px;
+ text-align: center;
+ background-color: #A5A5A5;
+ font-size: 30px;
+ color: #141414 ;
+font-family: "Times New Roman", Times, serif;}
+
+.toolt {
+  position: relative;
+  display: inline-block;
+}
+
+.toolt .tooltext {
+  visibility: hidden;
+  width: 200px;
+  background-color: black;
+  color: #A5A5A5;
+  text-align: center;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+  left: 105%;
+}
+
+.toolt:hover .tooltext {
+  visibility: visible;
+}
+
+li {
+display:inline;
+}
+
+u1 {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
+}
+
+li {
+    float: center;
+    }
+
+li a {
+      display:block;
+      color: #A5A5A5;
+      text=align: center;
+      padding: 15px 15px;
+      font-family: "Times New Roman", Times, serif;
+font-family: "Times New Roman", Times, serif;
+}
+
+li a:hover {
+background-color: #000000;
+}
+
+li {
+   border-right: 1px solid #bbb;
+   }
+
+
